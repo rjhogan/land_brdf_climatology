@@ -48,9 +48,6 @@ do_bsa=0;
 % can be useful to output a text file containing their location
 save_super_reflective = 0;
 
-% Version used in the filename
-Ver='V061-020';
-
 if do_vis_nir
   band_long_names = {'visible','near-infrared'};
 end

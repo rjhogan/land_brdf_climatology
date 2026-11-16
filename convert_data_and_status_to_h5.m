@@ -39,11 +39,6 @@ comps = {'iso','vol','geo'};
 compstr = {'isotropic','volumetric','geometric'};
 Compstr = {'Isotropic','Volumetric','Geometric'};
 
-% MODIS version, output software version and output file suffix
-modis_ver = '6.1';
-software_version = '2.0';
-Ver='V061-020';
-
 monthstr = {'January','February','March','April','May','June','July','August','September','October','November','December'};
 
 % NetCDF4/HDF5 data are first described by the dims and attr structures

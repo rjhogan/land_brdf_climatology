@@ -29,6 +29,11 @@ intermediate_base_dir = [input_base_dir '/intermediate_' verdir];
 % subdirectories will be <output_base_dir>/[brdf|quality]
 output_base_dir = [input_base_dir '/' verdir];
 
+% MODIS version, output software version and output file suffix
+modis_ver = '6.1';
+software_version = '2.0';
+Ver='V061-020';
+
 % Do we process the 2-band (visible + near-infrared) or 7-band data?
 do_vis_nir = 0;
 

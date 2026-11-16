@@ -30,4 +30,5 @@ fill_modis_albedo
 % Convert HDF4 files to NetCDF4/HDF5
 convert_data_and_status_to_h5
 
-%calc_white_black_sky_albedo
+% Calculate and save white- and (optionally) black-sky albedo
+calc_white_black_sky_albedo
