@@ -6,7 +6,7 @@ Robin Hogan <robin.hogan@ecmwf.int>
 
 # Overview
 
-This package creates a seven-band snow cleared land-surface
+This package creates a seven-band snow-cleared gap-filled land-surface
 bidirectional reflectance distribution function (BRDF) climatology
 from the MODIS MCD43GF daily dataset. The BRDF is parameterized by
 three albedo coefficients as described by [Schaaf et
